@@ -1,4 +1,4 @@
-# TON integration
+Lp # TON integration
 
 MadelineProto is now capable of integrating with the [Telegram TON blockchain](https://test.ton.org), thanks to a fully native implementation of ADNL and the lite-client protocol.
 
